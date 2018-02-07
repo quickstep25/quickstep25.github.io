@@ -1,0 +1,8 @@
+title: Quickstep25.github.io
+description: 
+google_analytics: UA-26957181-4
+show_downloads: true
+theme: jekyll-theme-slate
+
+gems:
+  - jekyll-mentions
